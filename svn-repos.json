@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Example repo 1",
+    "path": "path/to/svn/repo",
+    "lastReviewedRev": 934
+  },
+  {
+    "name": "Example repo 2",
+    "path": "http://url/to/svn/repo",
+    "lastReviewedRev": 2725
+  }
+]
